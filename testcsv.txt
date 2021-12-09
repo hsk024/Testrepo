@@ -1,0 +1,78 @@
+{
+    "Tjeneste":  "Confluence Test HNIKT",
+    "Tjenestetype":  "business_application",
+    "Relasjoner":  [
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "doos-t-cnfl-084",
+                           "Ucmdbid":  "4100b6a3d4e41d63865e2208bd7ecfbb",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2016",
+                           "OSVersjon":  "10.0.14393"
+                       },
+                       {
+                           "relasjonstype":  "itself",
+                           "CInavn":  "Confluence Test HNIKT",
+                           "Ucmdbid":  "44b69c9a48815b5db8412fb7aaa86334",
+                           "CItype":  "business_application",
+                           "OSname":  null,
+                           "OSVersjon":  null
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "db-t-sql-0134",
+                           "Ucmdbid":  "4732aef6520a0acba9a0409fe5360402",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2016",
+                           "OSVersjon":  "10.0.14393"
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "doos-t-cnfl-089",
+                           "Ucmdbid":  "4a5ef46170fca2bf9ed269b9827f74af",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2019",
+                           "OSVersjon":  "10.0.17763"
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "doos-p-intg-064",
+                           "Ucmdbid":  "4b7e0c27dea4f015ae5b9cb9abff0b79",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2016",
+                           "OSVersjon":  "10.0.14393"
+                       },
+                       {
+                           "relasjonstype":  "responsibility",
+                           "CInavn":  "NONE",
+                           "Ucmdbid":  "4bca6c4479aea187bdcd27dfe3b50bd5",
+                           "CItype":  "Team",
+                           "OSname":  null,
+                           "OSVersjon":  null
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "Confluence_test_copy2",
+                           "Ucmdbid":  "4df2bb0312734c1593f32ec680595fa5",
+                           "CItype":  "sqldatabase",
+                           "OSname":  null,
+                           "OSVersjon":  null
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "doos-t-cnfl-106",
+                           "Ucmdbid":  "4e6cbc0891cf29eba354a42b3c091513",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2019",
+                           "OSVersjon":  "10.0.17763"
+                       },
+                       {
+                           "relasjonstype":  "containment",
+                           "CInavn":  "doos-t-cnfl-116",
+                           "Ucmdbid":  "4ef62f00f6ea47058dbaf7e7d36222f5",
+                           "CItype":  "nt",
+                           "OSname":  "Windows 2019",
+                           "OSVersjon":  "10.0.17763"
+                       }
+                   ]
+}
